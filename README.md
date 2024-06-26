@@ -1,6 +1,6 @@
 # CyberGuard_Assignment
 
-Generated Two Files random.pcap by executing the code file random.py and actual.pcap by executing the code file actual.py, both with a count of 10 packets.
+Generated Two Files, first is random.pcap by executing the code file random.py and the second is actual.pcap by executing the code file actual.py, both with a count of 10 packets.
 
 On analyzing actual.pcap using Wireshark, tried to find out some suspicious instances and the one which I suspected is that There is an abrupt 46 seconds delay while loading 6th to 7th packet, it might be an indication of some suspicious activity.
 
