@@ -6,6 +6,7 @@ On analyzing actual.pcap using Wireshark, tried to find out some suspicious inst
 
 On analyzing random.pcap using Wireshark, I found that all the 10 packets generated are TCP SYN Packets, as all the packets are SYN packets, there might be a possibility of a SYN Flood Attack.
 
-The dataset is taken from Kaggle to make an ML model to detect anomalies in network data. Link for the dataset: https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection
+The dataset is taken from Kaggle to make an ML model to detect anomalies in network data. Link for the dataset: https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection.
 
+SoC_NIDS_ML.ipynb file consists of dataset preprocessing and model selection for network intrusion detection. It contains both the model and its implication on a test dataset.
 
